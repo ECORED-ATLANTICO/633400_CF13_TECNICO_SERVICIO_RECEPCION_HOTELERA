@@ -203,8 +203,8 @@
                 p.mb-0 En el siguiente video, le compartimos información detallada de los puntos clave y buenas prácticas de atención al huésped para garantizar experiencias memorables y que ayuden a la fidelización del huésped:  
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Z1rpV76lUvA" target="_blank")
-                  span Enlace video
-                  i.fas.fa-play-circle
+                  span Ir al recurso
+                  
 
     
     .container
