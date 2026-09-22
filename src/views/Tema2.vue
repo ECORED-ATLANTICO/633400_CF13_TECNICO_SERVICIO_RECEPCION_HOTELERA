@@ -98,7 +98,6 @@
           span Canales de atención de PQRS 
         img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema2/img10.svg", alt="La figura 2 presenta los seis canales utilizados por los establecimientos hoteleros para recibir peticiones, quejas, reclamos y sugerencias de los huéspedes. El primer canal corresponde a Atención presencial, representa la interacción directa entre el cliente y el personal del establecimiento. El segundo canal es Llamadas telefónicas y hace referencia a la atención de solicitudes e inconformidades mediante comunicación telefónica. El tercer canal corresponde a Correo electrónico, representa el envío y recepción de solicitudes o reclamaciones por medios digitales escritos. El cuarto canal es Formularios digitales, indica el registro virtual de PQRS mediante plataformas digitales. El quinto canal corresponde a Plataformas web y representa la atención y gestión de solicitudes a través de sitios web institucionales. El sexto canal es Redes sociales y hace referencia a la interacción y atención de comentarios o reclamaciones mediante plataformas sociales en línea.").mx-auto
         img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema2/img10m.svg", alt="La figura 2 presenta los seis canales utilizados por los establecimientos hoteleros para recibir peticiones, quejas, reclamos y sugerencias de los huéspedes. El primer canal corresponde a Atención presencial, representa la interacción directa entre el cliente y el personal del establecimiento. El segundo canal es Llamadas telefónicas y hace referencia a la atención de solicitudes e inconformidades mediante comunicación telefónica. El tercer canal corresponde a Correo electrónico, representa el envío y recepción de solicitudes o reclamaciones por medios digitales escritos. El cuarto canal es Formularios digitales, indica el registro virtual de PQRS mediante plataformas digitales. El quinto canal corresponde a Plataformas web y representa la atención y gestión de solicitudes a través de sitios web institucionales. El sexto canal es Redes sociales y hace referencia a la interacción y atención de comentarios o reclamaciones mediante plataformas sociales en línea.").mx-auto
-        figcaption Nota. SENA, (2026).
     
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-12
@@ -131,7 +130,6 @@
           span Buenas prácticas aplicadas en la atención de PQRS
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Buenas prácticas
@@ -294,7 +292,6 @@
           span Herramientas digitales y su aplicación en PQRS
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Herramientas digitales

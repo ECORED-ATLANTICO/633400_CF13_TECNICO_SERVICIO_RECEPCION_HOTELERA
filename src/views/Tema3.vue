@@ -48,7 +48,6 @@
           span Elementos que fortalecen el servicio durante el <em>check-out</em>
         img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema3/img04.svg", alt="La figura 3 presenta cinco elementos clave relacionados con la calidad del servicio en la salida del huésped. Estos elementos son: calidad en la información, manejo adecuado de tiempos, verificación organizada de consumos, orientación frente a pagos y facturación y capacidad para resolver novedades de manera oportuna.").mx-auto
         img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema3/img05.svg", alt="La figura 3 presenta cinco elementos clave relacionados con la calidad del servicio en la salida del huésped. Estos elementos son: calidad en la información, manejo adecuado de tiempos, verificación organizada de consumos, orientación frente a pagos y facturación y capacidad para resolver novedades de manera oportuna.").mx-auto
-        figcaption Nota.  SENA, (2026).
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -67,7 +66,6 @@
           span Competencias prácticas para la solución de novedades en el <em>check-out</em>
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Competencias

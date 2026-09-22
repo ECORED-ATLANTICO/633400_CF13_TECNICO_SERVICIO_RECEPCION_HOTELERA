@@ -111,7 +111,6 @@
           span <em>Check-out</em> tradicional versus <em>self-check-out</em>
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Aspecto
