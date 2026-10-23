@@ -348,8 +348,9 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial del Turismo. (2020). Recomendaciones sobre turismo y transformación digital. OMT.',
-      link: 'https://www.unwto.org/es',
+        'Organización Mundial del Turismo. (2020, 28 de agosto). COVID-19 y la transformación del turismo.',
+      link:
+        'https://www.unwto.org/es/news/informe-de-politicas-sobre-el-turismo-y-la-covid-19',
     },
     {
       referencia:
@@ -390,7 +391,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
+            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -444,17 +445,12 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Luis Gabriel Urueta Álvarez',
           cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Karine Isabel Ospino Fritz',
+          nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

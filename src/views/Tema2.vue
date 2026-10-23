@@ -375,7 +375,7 @@
               figure
                 img(src="@/assets/curso/tema2/img26.png", data-aos="fade-right")
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4 Adicionalmente, le invitamos a revisar el siguiente pódcast para profundizar los conceptos y situaciones  que se presentan cuando se genera una PQRS en Hoteles y establecimientos turísticos:
+              p(data-aos="fade-left").mb-4 Adicionalmente, le invitamos a revisar el siguiente <em>pódcast</em> para profundizar los conceptos y situaciones  que se presentan cuando se genera una PQRS en hoteles y establecimientos turísticos:
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="PQRS en establecimientos de alojamiento"

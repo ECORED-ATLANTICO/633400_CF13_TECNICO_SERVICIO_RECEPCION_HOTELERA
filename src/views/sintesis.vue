@@ -20,7 +20,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Check-out y atención de PQRS permite comprender la importancia de los procedimientos operativos, administrativos y de servicio relacionados con la salida del huésped dentro de los establecimientos de alojamiento. A lo largo de los contenidos se abordan aspectos asociados al cierre de cuenta, facturación, verificación operativa, atención durante el check-out, gestión de PQRS y solución de novedades, fortaleciendo la comprensión de los procesos requeridos para garantizar una atención organizada, eficiente y orientada a la satisfacción del cliente. Asimismo, el componente desarrolla temas relacionados con calidad del servicio, comunicación con el huésped, coordinación entre áreas y transformación digital aplicada a la operación hotelera. De igual manera, se reconoce la importancia de las herramientas tecnológicas, la atención humanizada y las buenas prácticas de servicio como elementos fundamentales para optimizar la experiencia del huésped y fortalecer la competitividad de los establecimientos de alojamiento dentro de la hotelería contemporánea.")
+          img(src="@/assets/curso/sintesis.svg", alt="El componente formativo Check-out y atención de PQRS comprende el cierre de cuentas, facturación, verificación operativa, atención de PQRS y solución de novedades. Integra comunicación asertiva, coordinación entre áreas, herramientas tecnológicas y buenas prácticas de servicio para garantizar una salida organizada, eficiente y orientada a la satisfacción del huésped.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

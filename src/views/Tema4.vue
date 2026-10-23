@@ -100,7 +100,7 @@
         .bg-fondo-1.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-3
           p.mb-0 Uno de los procesos más representativos corresponde al <em>self-check-out</em>, modalidad mediante la cual el huésped puede validar consumos, realizar pagos y finalizar su estadía utilizando plataformas digitales o dispositivos electrónicos sin necesidad de atención presencial permanente. Estas soluciones responden a nuevas dinámicas del turismo y a usuarios que valoran rapidez y comodidad en los servicios hoteleros.
 
-        p.mb-0 En la tabla a continuación, se presenta un comparativo del proceso de <em>check-out</em> y <em>self-check-out</em>.
+        p.mb-0 En la tabla a continuación se presenta un comparativo del proceso de <em>check-out</em> y <em>self-check-out</em>.
     
 
     .row.justify-content-center.mb-5

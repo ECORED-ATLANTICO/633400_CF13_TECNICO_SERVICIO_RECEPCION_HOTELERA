@@ -46,8 +46,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5.text-bold Figura 3.
           span Elementos que fortalecen el servicio durante el <em>check-out</em>
-        img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema3/img04.svg", alt="La figura 3 presenta cinco elementos clave relacionados con la calidad del servicio en la salida del huésped. Estos elementos son: calidad en la información, manejo adecuado de tiempos, verificación organizada de consumos, orientación frente a pagos y facturación y capacidad para resolver novedades de manera oportuna.").mx-auto
-        img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema3/img05.svg", alt="La figura 3 presenta cinco elementos clave relacionados con la calidad del servicio en la salida del huésped. Estos elementos son: calidad en la información, manejo adecuado de tiempos, verificación organizada de consumos, orientación frente a pagos y facturación y capacidad para resolver novedades de manera oportuna.").mx-auto
+        img.d-none.d-lg-block(data-aos="fade-down", src="@/assets/curso/tema3/img04.svg", alt="La figura 3 presenta cinco elementos clave relacionados con la calidad del servicio en la salida del huésped. Estos elementos son: claridad en la información, manejo adecuado de tiempos, verificación organizada de consumos, orientación frente a pagos y facturación y capacidad para resolver novedades de manera oportuna.").mx-auto
+        img.d-block.d-lg-none(data-aos="fade-down", src="@/assets/curso/tema3/img05.svg", alt="La figura 3 presenta cinco elementos clave relacionados con la calidad del servicio en la salida del huésped. Estos elementos son: claridad en la información, manejo adecuado de tiempos, verificación organizada de consumos, orientación frente a pagos y facturación y capacidad para resolver novedades de manera oportuna.").mx-auto
 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -213,7 +213,7 @@
               figure
                 img(src="@/assets/curso/tema2/img26.png", data-aos="fade-right")
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-3
-              p(data-aos="fade-left").mb-4 De igual forma, en el pódcast a continuación, podrá afianzar sus conocimientos con relación a la calidad del servicio y solución de novedades en establecimientos de alojamiento: 
+              p(data-aos="fade-left").mb-4 De igual forma, en el <em>pódcast</em> a continuación, podrá afianzar sus conocimientos con relación a la calidad del servicio y solución de novedades en establecimientos de alojamiento: 
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Calidad del servicio y solución de novedades"
